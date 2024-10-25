@@ -151,7 +151,7 @@ namespace _08_Methods
 
             #endregion
 
-            #region Geriye Değer Döndüren String Parametreli Metotlar
+            #region Geriye Değer Döndüren İnt Parametreli Metotlar
 
             //int Sum(int number1,int number2)
             //{
